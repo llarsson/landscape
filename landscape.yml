@@ -7662,6 +7662,15 @@ landscape:
             logo: cloudfoundry-applicationruntime.svg
             crunchbase: https://www.crunchbase.com/organization/cloud-foundry
           - item:
+            name: Elastisys Kubernetes Platform
+            description: >-
+              Elastisys provides a fully-managed Kubernetes Platform as a Service (PaaS) to the EU market on EU-owned and GDPR-ready cloud infrastructure.
+            homepage_url: https://elastisys.com
+            repo_url: https://github.com/elastisys/compliantkubernetes
+            logo: elastisys.svg
+            crunchbase: https://www.crunchbase.com/organization/elastisys
+            allow_duplicate_repo: true
+          - item:
             name: Heroku
             description: Developers, teams, and businesses of all sizes use Heroku to deploy, manage, and scale apps.
             homepage_url: https://www.heroku.com
